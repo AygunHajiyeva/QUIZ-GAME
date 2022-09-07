@@ -9,7 +9,7 @@ Click the buttons to answer the qustions
 <div align="center">
 <h1>
 <a href="https://quiz-question-project.herokuapp.com/">
->>> Demo <<<
+>>> Click for Demo<<<
 </a>
 </h1>
 </div>
