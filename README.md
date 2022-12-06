@@ -8,7 +8,7 @@ Click the buttons to answer the qustions
 
 <div align="center">
 <h1>
-<a href="https://quiz-question-project.herokuapp.com/">
+<a href="https://quiz-game-smoky.vercel.app/">
 >>> Click for Demo<<<
 </a>
 </h1>
